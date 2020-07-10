@@ -1,3 +1,8 @@
+[wikiを参照のこと](https://github.com/shimajima-eiji/Github_scout/wiki)
+https://github.com/shimajima-eiji/Github_scout/wiki
+
+【要注意】wikiディレクトリには、wikiの内容を集約している。
+
 # Github転職・スカウトを考える
 運用ルールや導入を支援する情報をまとめるためのリポジトリ。
 <br>旧READMEリポジトリの、外部公開でないものを集約。
