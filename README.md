@@ -13,3 +13,7 @@ Githubを通常利用しているだけでもリポジトリやissueが煩雑に
 <br>口で言うのは簡単だが、いざやってみるとこれが難しかったので、ノウハウをまとめつつGithub転職を促進していきたい。
 
 基本的にWikiを使うが、Wikiだとバージョン管理が面倒くさい（gitコマンドが使えない）ので、意図的にwikiディレクトリ以下に更新履歴を残していくようにする。
+
+- [Wiki](https://github.com/shimajima-eiji/Github_scout/wiki)
+- [Github](https://github.com/shimajima-eiji/Github_scout)
+- [Github Pages](https://shimajima-eiji.github.io/Github_scout)
