@@ -1,5 +1,5 @@
 [wikiを参照のこと](https://github.com/shimajima-eiji/Github_scout/wiki)
-https://github.com/shimajima-eiji/Github_scout/wiki
+<br>https://github.com/shimajima-eiji/Github_scout/wiki
 
 【要注意】wikiディレクトリには、wikiの内容を集約している。
 
