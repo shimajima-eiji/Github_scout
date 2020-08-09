@@ -1,6 +1,7 @@
 ## 更新履歴
 
-### 最終更新 2020年8月9日
+### 最終更新 2020年8月10日
+- [7268375](https://github.com/shimajima-eiji/Github_scout/commit/72683759dfb40461eaaec3c88a96b2e545bd993d) [2020/08/09][CHANGELOG] 最新化 (@shimajima-eiji)
 - [b4386dc](https://github.com/shimajima-eiji/Github_scout/commit/b4386dcdf0237a4b77c782addcd35423416ec7e6) [2020/08/08][絵文字] 移行 #16 https://github.com/shimajima-eiji/emoji/issues/2 (@shimajima-eiji)
 - [2c83805](https://github.com/shimajima-eiji/Github_scout/commit/2c83805f9b7df1dde8be241ee34e36b57b53cbe1) [2020/08/08][CHANGELOG] 最新化 (@shimajima-eiji)
 - [62f6f72](https://github.com/shimajima-eiji/Github_scout/commit/62f6f725f7739f4cfa705b4db0c3186e60248a0e) [2020/08/08][CHANGELOG] 最新化 (@shimajima-eiji)
